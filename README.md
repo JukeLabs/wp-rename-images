@@ -1,0 +1,1 @@
+# wp-rename-images
